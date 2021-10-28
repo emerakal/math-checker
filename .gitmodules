@@ -1,0 +1,3 @@
+[submodule "wolframalpha"]
+	path = wolframalpha
+	url = https://github.com/emerakal/wolframalpha.git
